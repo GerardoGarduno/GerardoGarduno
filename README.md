@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerardo Garduno</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h3 align="center">A Software Engineer from California</h3>
 
 - 🔭 I’m currently working on [MoneyCounter](https://github.com/GerardoGarduno/MoneyCounterPublic)
 
