@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-forked.vercel.app/api?username=gerardogarduno&show_icons=true&locale=en&theme=radical" alt="gerardogarduno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardogarduno&" alt="gerardogarduno" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardogarduno&theme=radical" alt="gerardogarduno" /></p>
