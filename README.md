@@ -21,6 +21,6 @@
 <p><img align="left" src="https://github-readme-stats-forked-git-master-gerardogarduno.vercel.app/api/top-langs?username=gerardogarduno&show_icons=true&locale=en&layout=compact&theme=dark" alt="gerardogarduno" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-forked-git-master-gerardogarduno.vercel.app/api?username=gerardogarduno&show_icons=true&locale=en&theme=radical" alt="gerardogarduno" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-forked-git-master-gerardogarduno.vercel.app/api?username=gerardogarduno&show_icons=true&locale=en&theme=radical&include_all_commits=true&rank_icon=github" alt="gerardogarduno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerardogarduno&theme=radical" alt="gerardogarduno" /></p>
