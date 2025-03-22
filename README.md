@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gerardo Garduno</h1>
-<h3 align="center">A Software Engineer from California</h3>
+<h3 align="center">A Software Engineer located near the San Francsisco Bay </h3>
 
 - 🔭 I’m currently working on [LeagueOfLegendsTracker](https://github.com/GerardoGarduno/LeagueOfLegendsTracker)
 
-- 💬 Ask me about **react, python and c++**
+- 💬 Ask me about **react, python and Node.js**
 
 - 📫 How to reach me **ggardunoWork@gmail.com**
 
