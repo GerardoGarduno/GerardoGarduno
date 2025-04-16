@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerardo Garduno</h1>
 <h3 align="center">A Software Engineer located near the San Francsisco Bay </h3>
 
-- 🔭 I’m currently working on [LeagueOfLegendsTracker](https://github.com/GerardoGarduno/LeagueOfLegendsTracker)
+- 🔭 I’m currently working on [Virtual Diary](https://virtualdiaryapp-fi3tvjkq1-gerardogardunos-projects.vercel.app/)
 
 - 💬 Ask me about **react, python and Node.js**
 
